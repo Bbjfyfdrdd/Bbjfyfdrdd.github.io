@@ -1,5 +1,7 @@
 body {
       background:linear-gradient(blue,skyblue);
+      background-repeat:no-repeat;
+      background-attachment:fixed;
       margin:0;
       }
       
